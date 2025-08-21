@@ -7,7 +7,7 @@ if st.button("클릭하세요"):
    st.write("버튼이 클릭되었습니다!")
 
 <p align="center">
-  <img src="images/pic1.png" width="300">
-  <img src="images/pic2.png" width="300">
+  <img src="pic1.png" width="300">
+  <img src="pic2.png" width="300">
 </p>
 
