@@ -13,4 +13,4 @@ with col1:
     st.image("dksdbwls.jpg", width=300)
 
 with col2:
-    st.image("pic2.png", width=300)
+    st.image("zkflsk.jpg", width=300)
